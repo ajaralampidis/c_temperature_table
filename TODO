@@ -1,0 +1,11 @@
+Hacer una libriería que convierta farenheit a celcius y viceversa en C:
+
+  ✔ Las funciones deben estar en un archivo fuente separado. @done(24-02-24 23:44)
+
+  ✔ El main debería imprimir una tabla de dos columnas @done(24-02-24 23:44)
+
+  ✔ El programa puede recibir una o más temperaturas que va a listar en la tabla @done(24-02-24 23:44)
+
+  ✔ bonus: hacer un makefile que compile el programa. @done(24-02-25 20:22)
+
+  ☐ bonus: hacer testing.
